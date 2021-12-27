@@ -1,0 +1,7 @@
+./data
+data/*
+*.gz
+model_algo-1
+df*
+*.pyc
+*.ipynb_checkpoints/
